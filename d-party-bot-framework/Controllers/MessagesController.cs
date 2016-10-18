@@ -21,6 +21,7 @@ namespace d_party_bot_framework
         {
             if (activity.Type == ActivityTypes.Message)
             {
+                // 여기 부분을 이후 필요한 로직으로 변경해 처리
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
                 // calculate something for us to return
                 int length = (activity.Text ?? string.Empty).Length;
