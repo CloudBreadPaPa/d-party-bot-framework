@@ -16,7 +16,7 @@ skype가 있다면 아래 링크에서 테스트 가능
 
 ### 전체 진행 절차
 Microsoft Bot Framework를 이용해 실제 봇을 개발하는 절차  
-https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html  
+참고링크 : https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html  
 - Node.js 또는 .NET을 이용해 프로젝트 시작
 - .NET 과정일 경우 Bot Framework 템플릿을 이용해 진행
 ![Bot Framework 템플릿](image/03.png)  
@@ -41,6 +41,7 @@ generate된 MicrosoftAppId와 MicrosoftAppPassword를 web.config의 코드에 �
 - Azure Machine Learning의 Predictive Model로 예측 분석 수행
 Iris 데이터로 처리 : github repo의 Iris 폴더 참조  
 ![Iris plot](image/11.png)  
+![Iris plot](image/12.png)  
 - Iris 학습 모델 생성
 ![Iris 학습 모델](image/08.png)  
 - Iris 예측 모델 생성
