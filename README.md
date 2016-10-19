@@ -1,10 +1,12 @@
-# d.party 발표자료 - 마이크로소프트 봇 프레임워크로 만드는 인공지능 봇
+# 마이크로소프트 봇 프레임워크로 만드는 인공지능 봇
 Microsoft Bot fraemwork code for D.Camp - D.Party presentation
+이 자료는 d.party 발표를 위해 제작. http://www.dcamp.kr/event/apply/1500  
 
-## 10분 동안 만드는 진짜 Bot
-봇을 개발 / 게시 / 등록하고, 실제 메신져 어플리케이션에서 등록해 채팅하는 어플리케이션을 개발하는 것이 목표
+### 10분 동안 만드는 진짜 Bot
+Microsoft Bot Framework를 이용해  
+봇을 개발 / 게시 / 등록하고, 실제 메신져 어플리케이션에서 추가해 봇과 채팅하는 어플리케이션을 개발하는 것이 목표
 
-## 전체 진행 절차
+### 전체 진행 절차
 Microsoft Bot Framework를 이용해 실제 봇을 개발하는 절차
 - Node.js 또는 .NET을 이용해 프로젝트 시작
 - .NET 과정일 경우 Bot Framework 템플릿을 이용해 진행

@@ -127,6 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\dw-d-party-bot - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\dw-d-party-bot - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
